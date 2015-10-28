@@ -3,7 +3,7 @@ package edu.esprit.greeter;
 public class Greteer {
 	
 	
-	public String var2;
+	public String var1;
 	
 	public String sayHello(String name){
 		
