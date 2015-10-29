@@ -22,5 +22,33 @@
         </repository>
 
     </distributionManagement>
+    <build>
+        <plugin>
+            <groupId>org.mehdi.plugin</groupId>
+    <artifactId>mehdi-sursurefire-plugin</artifactId>
+            <configuration>
+                <testfailuregroupe>true</testfailuregroupe>
+            </configuration>
+    
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </plugin>
+    
+    
+    
+    
+    </build>
   
 </project>
