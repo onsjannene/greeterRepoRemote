@@ -7,6 +7,9 @@ public class Greteer {
 	public String var1;
 	public String var8888;
 	
+	public String var9999;
+	
+	
 	public String sayHello(String name){
 		
 		if(name.equals("Man"))
